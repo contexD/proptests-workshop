@@ -12,3 +12,5 @@ In addition, there's a start for a proptest for the `hasTheSameLength` property 
 3. Try to come up with another property for the mergeSort function
 
 ## Proptest for React component
+
+In `./apps/web/components/__tests__/sort.tests.ts` you will find a unit test for an implementation of mergeSort.
